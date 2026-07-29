@@ -1,0 +1,64 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "d43817ee67ce4f85a8301469413bfb5652a071859881aa38c6e88980a6e9db16"
+    }
+  ],
+  "containerPath" : "/Users/peng.li/workspace/freewind-demos/swift-function-params-demo/swift_function_params_demo.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx15.2",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/peng.li/workspace/freewind-demos/swift-function-params-demo/build/DerivedData-Debug/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/peng.li/workspace/freewind-demos/swift-function-params-demo/build/DerivedData-Debug/Build/Products",
+      "derivedDataPath" : "/Users/peng.li/workspace/freewind-demos/swift-function-params-demo/build/DerivedData-Debug",
+      "indexDataStoreFolderPath" : "/Users/peng.li/workspace/freewind-demos/swift-function-params-demo/build/DerivedData-Debug/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/peng.li/workspace/freewind-demos/swift-function-params-demo/build/DerivedData-Debug/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/peng.li/workspace/freewind-demos/swift-function-params-demo/build/DerivedData-Debug/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "CODE_SIGN_IDENTITY" : "-",
+          "CODE_SIGNING_ALLOWED" : "NO",
+          "CODE_SIGNING_REQUIRED" : "NO"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
